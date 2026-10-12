@@ -1,0 +1,6 @@
+url,expected_demo_note
+https://www.wikipedia.org,Documentation example for lower-risk testing
+https://example.com,Reserved example domain
+http://secure-account-check.example/login,Reserved example domain with suspicious-looking words
+http://192.0.2.10/verify,Documentation-only IP address with a suspicious-looking path
+https://example.com/continue?redirect=https://other.example,Reserved example domain with redirect-style parameter
